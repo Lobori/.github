@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <title>A little code, a little creativity</title>
+  <desc>An original playful illustration of an app window and a video frame, with colorful circles, a looping line, and sparks on a warm cream background.</desc>
+  <rect width="1200" height="340" rx="24" fill="#F5F1E8"/>
+  <circle cx="65" cy="292" r="114" fill="#DBE9DB"/>
+  <circle cx="1138" cy="29" r="109" fill="#F5C8B4"/>
+  <path d="M117 188C198 64 324 307 514 204S800 13 934 149s185 68 225 29" stroke="#768B78" stroke-width="3" stroke-dasharray="8 10"/>
+  <g transform="translate(263 64) rotate(-6 153 102)">
+    <rect x="10" y="12" width="306" height="204" rx="16" fill="#243F42"/>
+    <rect width="306" height="204" rx="16" fill="#FFFDF8" stroke="#243F42" stroke-width="3"/>
+    <path d="M1 40h304" stroke="#243F42" stroke-width="3"/>
+    <circle cx="21" cy="21" r="5" fill="#E9A388"/>
+    <circle cx="39" cy="21" r="5" fill="#E5C96A"/>
+    <circle cx="57" cy="21" r="5" fill="#9DB89D"/>
+    <rect x="23" y="61" width="76" height="119" rx="9" fill="#DBE9DB"/>
+    <path d="m147 95-24 24 24 24m59-48 24 24-24 24m-24-56-17 64" stroke="#243F42" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M123 164h112" stroke="#E9A388" stroke-width="7" stroke-linecap="round"/>
+    <path d="M41 83h39M41 101h26M41 119h32" stroke="#768B78" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(654 87) rotate(7 135 87)">
+    <rect x="10" y="12" width="270" height="174" rx="16" fill="#243F42"/>
+    <rect width="270" height="174" rx="16" fill="#E9A388" stroke="#243F42" stroke-width="3"/>
+    <circle cx="135" cy="76" r="41" fill="#FFFDF8"/>
+    <path d="m127 57 27 19-27 19V57Z" fill="#243F42"/>
+    <path d="M25 145h220" stroke="#243F42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M25 145h96" stroke="#FFFDF8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="121" cy="145" r="7" fill="#FFFDF8" stroke="#243F42" stroke-width="2"/>
+  </g>
+  <g stroke="#243F42" stroke-width="4" stroke-linecap="round">
+    <path d="M179 73v28m-14-14h28M995 241v28m-14-14h28"/>
+    <path d="m1009 88 13 13m-13 0 13-13"/>
+  </g>
+  <circle cx="167" cy="242" r="17" fill="#E5C96A" stroke="#243F42" stroke-width="3"/>
+  <circle cx="625" cy="49" r="9" fill="#E9A388"/>
+  <circle cx="606" cy="285" r="12" fill="#9DB89D"/>
+  <path d="m1022 149 10 20 22 3-16 16 4 22-20-10-20 10 4-22-16-16 22-3 10-20Z" fill="#E5C96A" stroke="#243F42" stroke-width="3" stroke-linejoin="round"/>
+</svg>
