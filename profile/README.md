@@ -10,7 +10,7 @@ Lobori LLC is a parent company for digital products and online creative services
 
 ### What we're about
 
-- **Software & apps** - digital products and software projects.
-- **Creative digital services** - creative and promotional video work.
+- **Software & apps**: digital products and software projects.
+- **Creative digital services**: creative and promotional video work.
 
-Code meets creativity. Welcome to our little corner of GitHub. ?
+Code meets creativity. Welcome to our little corner of GitHub. :sparkles:
